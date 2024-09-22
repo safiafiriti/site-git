@@ -1,0 +1,14 @@
+body{
+    background: #de3fe4;
+}
+
+h1{
+    color: blue;
+    font-size: 50px;
+    margin: 100px;
+    padding: 100px;
+}
+
+p{
+    font-size: 30px;
+}
